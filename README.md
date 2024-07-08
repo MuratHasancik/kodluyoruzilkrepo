@@ -1,6 +1,8 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
  
+![repoeresim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan  aldığınız link gelecek.)
 
